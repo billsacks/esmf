@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: ESMF Support
     url: http://earthsystemmodeling.org/support/
-    about: For support with the use of ESMF or to report a problem, please email esmf_support@ucar.edu
+    about: For help with the use of ESMF or to report a problem, please email esmf_support@ucar.edu
